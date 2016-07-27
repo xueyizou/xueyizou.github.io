@@ -1,103 +1,52 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<HTML>
-<HEAD>
-	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1252">
-	<meta name="description" content="Xueyi Zou is a PhD student in high-integrity systems engineering at the University of York, UK." />
-	<TITLE></TITLE>
-</HEAD>
-<body style="background-color:#ffe; width: 600px; margin:auto;">
-	<font face="Calibri">
-<H1>Mr Xueyi Zou</H1>
-<P><IMG SRC="xueyi.jpg" ALIGN=LEFT HEIGHT=350 BORDER=0><BR CLEAR=LEFT>
-<A HREF="http://www.cs.york.ac.uk/hise/">High Integrity Systems Engineering Research Group</A>,<BR><A HREF="http://www.cs.york.ac.uk/">Department of Computer Science</A>,<BR><A HREF="http://www.york.ac.uk/">University of York</A>.</P>
-<P>
-
-<P>Office: CSE/011, ground floor Computer Science Building <BR>Telephone:
-01904 325425<BR>Email: <A HREF="mailto:xz972@york.ac.uk">xz972@york.ac.uk</A></P>
-
-<P>I'm a PhD student in the <A HREF="http://www.cs.york.ac.uk/">Department
-of Computer Science</A> at the <A HREF="http://www.york.ac.uk/">University
-of York</A>, England.
-
-<H1>Education</H1>
-<UL>
-	<LI><A>PhD (Sept 2012 - Sept 2016) Computer Science: University of York</A></LI>
-	<LI><A>Unfinished PhD (Spet 2010 - Sept 2012) System Engineering: Beihang University</A></LI>
-	<LI><A>Bachelar (Spet 2006- July 2010) Reliability and System Engineering: Beihang University</A></LI>
-</UL>
-
-<H1>Research Interests</H1>
-<P>My current research interests include:
-<UL>
-	<LI><A>Simultaneous Localization and Mapping (SLAM), Visual SLAM;</A></LI>
-	<LI><A>Visual Odometry, Visual Inertial Odometry;</A></LI>
-	<LI><A>Deep Learning, Convolutional Neural Networks (CNN) for visual recognition and image segmentation;</A></LI>
-	<LI><A>Robot Path and Motion Planning, Collision Avoidance, Planning and Decision Making under Uncertainty.</A></LI>
-</UL>
-
-
-<H1>Publications</H1>
-
-My <A HREF="https://scholar.google.co.uk/citations?user=FOGv9ukAAAAJ&hl=en">Google Scholar</a>
-
-<H3>2016</H3>
-<UL>
-	<LI>
-	<P><A HREF="http://www-users.cs.york.ac.uk/~rda/AIAAPaper accepted manuscript.pdf">Testing Method for Multi-UAV Conflict Resolution Using Agent-Based Simulation and Multi-Objective Search</A>
-	<BR>Xueyi Zou, Rob Alexander, John McDermid
-	<BR>Journal of Aerospace Information Systems, April 2016
-	</LI>
-
-	<LI>
-	<P><A HREF="https://hal.archives-ouvertes.fr/hal-01318359/document">Validating Unmanned Aerial Vehicle Sense and Avoid Algorithms with Evolutionary Search</A>
-	<BR>Xueyi Zou
-	<BR>Student forum of the 46th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), June 2016 
-	</LI>
-
-	<LI>
-	<P><A HREF="http://www-users.cs.york.ac.uk/~rda/AIAAPaper accepted manuscript.pdf">On the Validation of a UAV Collision Avoidance System Developed by Model Based Optimization: Challenges and a Tentative Partial Solution</A>
-	<BR>Xueyi Zou, Rob Alexander, John McDermid
-	<BR>2nd International Workshop on Safety and Security of Intelligent Vehicles, DSN workshop, June 2016 
-	</LI>
-</UL>
-
-
-<H3>2015</H3>
-<UL>
-	<LI>
-	<P><A HREF="http://arxiv.org/pdf/1506.06419.pdf">Verification and Control of Partially Observable Probabilistic Real-Time Systems</A>
-	<BR>Gethin Norman, David Parker, Xueyi Zou
-	<BR>13th International Conference on Formal Modeling and Analysis of Timed Systems (FORMATS 2015), September, 2015
-	</LI>
-</UL>
-
-<H3>2014</H3>
-	<UL>
-	<LI>
-	<P><A HREF="http://dx.doi.org/10.1007/978-3-319-10506-2_3">Safety Validation of Sense and Avoid Algorithms Using Simulation and Evolutionary Search</A>
-	<BR>Xueyi Zou, Rob  Alexander, John McDermid
-	<BR>Proceedings of the 33rd International Conference on Computer Safety, Reliability and Security (SAFECOMP '14), September 2014
-	</LI>
-	
-</UL>
-
-<H3>Earlier</H3>
-	<UL>
-	<LI>
-	<P><A HREF="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5952639&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D5952639">The methods of FPGA software verification</A>
-	<BR>Ding Zheng, Wang Yichen, Zou Xueyi
-	<BR>IEEE International Conference on Computer Science and Automation Engineering, June 2011
-	</LI>
-	
-</UL>
-
-</P>
-
-<P><BR><BR>
-</P>
-<P><BR><BR>
-</P>
-</BODY>
-</HTML>
-
+<h1>Mr Xueyi Zou</h1>
+<p><img src="xueyi.jpg" alt="" height="350" align="LEFT" border="0" /><br clear="LEFT" /> <a href="http://www.cs.york.ac.uk/hise/">High Integrity Systems Engineering Research Group</a>,<br /><a href="http://www.cs.york.ac.uk/">Department of Computer Science</a>,<br /><a href="http://www.york.ac.uk/">University of York</a>.</p>
+<p>Office: CSE/011, ground floor Computer Science Building <br />Telephone: 01904 325425<br />Email: <a href="mailto:xz972@york.ac.uk">xz972@york.ac.uk</a></p>
+<p>I'm a PhD student in the <a href="http://www.cs.york.ac.uk/">Department of Computer Science</a> at the <a href="http://www.york.ac.uk/">University of York</a>, England.&nbsp;I am supervised by <a href="https://www-users.cs.york.ac.uk/~jam/index.html" target="_blank">Prof. John McDermid </a>and <a href="https://www-users.cs.york.ac.uk/rda/" target="_blank">Dr. Rob Alexander</a>.</p>
+<p>I will be graduated soon (expected: Sept 2016) and I am looking for a job in the area of Artificial Intelligence and Robotics. Here is my <a href="https://drive.google.com/open?id=0B_7k4FZyhA-1WmdtV2FYVXNOYlk">CV</a>, <a href="www.linkedin.com/in/xueyizou">LinkedIn</a> and <a href="https://github.com/xueyizou">GitHub</a>. Thanks for your interest.</p>
+<h1>Education</h1>
+<ul>
+<li><a>PhD (Sept 2012 - Sept 2016): Major in Computer Science, University of York.</a></li>
+<li><a>Unfinished PhD (Spet 2010 - Sept 2012): Major in System Engineering, Beihang University.</a></li>
+<li><a>Bachelor (Spet 2006- July 2010): Major in Reliability and System Engineering, Beihang University.</a></li>
+</ul>
+<h1>Research Interests</h1>
+<p>My current research interests include:</p>
+<ul>
+<li><a>Simultaneous Localization and Mapping (SLAM),</a><a>Visual Odometry and&nbsp;</a><a>Visual SLAM;</a></li>
+<li><a>Machine Learning and Deep Learning, Convolutional Neural Networks (CNN) for visual recognition and image segmentation;</a></li>
+<li><a>Robot Path and Motion Planning, Collision Avoidance, Planning and Decision Making under Uncertainty.</a></li>
+</ul>
+<h1>Publications</h1>
+<p>My <a href="https://scholar.google.co.uk/citations?user=FOGv9ukAAAAJ&amp;hl=en">Google Scholar</a></p>
+<h3>2016</h3>
+<ul>
+<li>
+<p><a href="http://www-users.cs.york.ac.uk/~rda/AIAAPaper accepted manuscript.pdf">Testing Method for Multi-UAV Conflict Resolution Using Agent-Based Simulation and Multi-Objective Search</a> <br />Xueyi Zou, Rob Alexander, John McDermid <br />Journal of Aerospace Information Systems, April 2016</p>
+</li>
+<li>
+<p><a href="https://hal.archives-ouvertes.fr/hal-01318359/document">Validating Unmanned Aerial Vehicle Sense and Avoid Algorithms with Evolutionary Search</a> <br />Xueyi Zou <br />Student forum of the 46th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), June 2016</p>
+</li>
+<li>
+<p><a href="http://www-users.cs.york.ac.uk/~rda/AIAAPaper accepted manuscript.pdf">On the Validation of a UAV Collision Avoidance System Developed by Model Based Optimization: Challenges and a Tentative Partial Solution</a> <br />Xueyi Zou, Rob Alexander, John McDermid <br />2nd International Workshop on Safety and Security of Intelligent Vehicles, DSN workshop, June 2016</p>
+</li>
+</ul>
+<h3>2015</h3>
+<ul>
+<li>
+<p><a href="http://arxiv.org/pdf/1506.06419.pdf">Verification and Control of Partially Observable Probabilistic Real-Time Systems</a> <br />Gethin Norman, David Parker, Xueyi Zou <br />13th International Conference on Formal Modeling and Analysis of Timed Systems (FORMATS 2015), September, 2015</p>
+</li>
+</ul>
+<h3>2014</h3>
+<ul>
+<li>
+<p><a href="http://dx.doi.org/10.1007/978-3-319-10506-2_3">Safety Validation of Sense and Avoid Algorithms Using Simulation and Evolutionary Search</a> <br />Xueyi Zou, Rob Alexander, John McDermid <br />Proceedings of the 33rd International Conference on Computer Safety, Reliability and Security (SAFECOMP '14), September 2014</p>
+</li>
+</ul>
+<h3>Earlier</h3>
+<ul>
+<li>
+<p><a href="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&amp;arnumber=5952639&amp;url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D5952639">The methods of FPGA software verification</a> <br />Ding Zheng, Wang Yichen, Zou Xueyi <br />IEEE International Conference on Computer Science and Automation Engineering, June 2011</p>
+</li>
+</ul>
+<p><br /><br /></p>
+<p><br /><br /></p>
