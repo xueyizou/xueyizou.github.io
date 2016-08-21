@@ -2,7 +2,7 @@
 <p><img src="xueyi.jpg" alt="" height="350" align="LEFT" border="0" /><br clear="LEFT" /> <a href="http://www.cs.york.ac.uk/hise/">High Integrity Systems Engineering Research Group</a>,<br /><a href="http://www.cs.york.ac.uk/">Department of Computer Science</a>,<br /><a href="http://www.york.ac.uk/">University of York</a>.</p>
 <p>Office: CSE/011, ground floor Computer Science Building <br />Telephone: 01904 325425<br />Email: <a href="mailto:xz972@york.ac.uk">xz972@york.ac.uk</a></p>
 <p>I'm a PhD student in the <a href="http://www.cs.york.ac.uk/">Department of Computer Science</a> at the <a href="http://www.york.ac.uk/">University of York</a>, England.&nbsp;I am supervised by <a href="https://www-users.cs.york.ac.uk/~jam/index.html" target="_blank">Prof. John McDermid </a>and <a href="https://www-users.cs.york.ac.uk/rda/" target="_blank">Dr. Rob Alexander</a>.</p>
-<p>I will be graduated soon (expected: Sept 2016) and I am looking for a job in the area of Artificial Intelligence and Robotics. Here is my <a href="Xueyi's CV.pdf">CV</a>, <a href="https://www.linkedin.com/in/xueyizou">LinkedIn</a> and <a href="https://github.com/xueyizou">GitHub</a>. Thanks for your interest.</p>
+<p>I will be graduated soon (expected: Sept 2016) and I am <strong><span style="text-decoration: underline; color: #ff00ff;">looking for a job </span></strong>in the area of Artificial Intelligence and Robotics. Here is my <a href="Xueyi's CV.pdf">CV</a>, <a href="https://www.linkedin.com/in/xueyizou">LinkedIn</a> and <a href="https://github.com/xueyizou">GitHub</a>. Thanks for your interest.</p>
 <h1>Education</h1>
 <ul>
 <li><a>PhD (Sept 2012 - Sept 2016): Major in Computer Science, University of York.</a></li>
@@ -10,11 +10,17 @@
 <li><a>Bachelor (Spet 2006- July 2010): Major in Reliability and System Engineering, Beihang University.</a></li>
 </ul>
 <h1>Research Interests</h1>
-<p>My current research interests include:</p>
+<p>My research lies in the intersection of Artificial Intelligence and Safety-Critical System Engineering, which includes two major lines of research:</p>
 <ul>
-<li><a>Simultaneous Localization and Mapping (SLAM),</a><a>Visual Odometry and&nbsp;</a><a>Visual SLAM;</a></li>
-<li><a>Machine Learning and Deep Learning, Convolutional Neural Networks (CNN) for visual recognition and image segmentation;</a></li>
-<li><a>Robot Path and Motion Planning, Collision Avoidance, Planning and Decision Making under Uncertainty.</a></li>
+<li><a>AI techniques that make robots (e.g. self-driving cars, UAVs) more autonomous, such as robust Simultaneous Localization and Mapping (SLAM) techniques, and techniques for decision-making under uncertainty;</a></li>
+<li><a>Techniques that can be used to ensure the safety of intelligent systems, such as automated testing techniques, and formal verification techniques.</a></li>
+</ul>
+<p>Specifically, my current research interests include:</p>
+<ul>
+<li><a>Visual Odometry and Visual SLAM;</a></li>
+<li><a>Robot Path and Motion Planning, Collision Avoidance, Planning and Decision Making under Uncertainty;</a></li>
+<li><a>Automated testing for autonomous systems;</a></li>
+<li><a>Machine Learning and Deep Learning, Convolutional Neural Networks (CNN) for visual recognition and image segmentation.</a></li>
 </ul>
 <h1>Publications</h1>
 <p>My <a href="https://scholar.google.co.uk/citations?user=FOGv9ukAAAAJ&amp;hl=en">Google Scholar</a></p>
@@ -56,14 +62,6 @@
 </ul>
 <p><br /><br /></p>
 <p><br /><br /></p>
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-82110669-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
+<script>// <![CDATA[
+ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-82110669-1', 'auto'); ga('send', 'pageview'); 
+// ]]></script>
